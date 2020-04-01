@@ -48,6 +48,8 @@
     "bundle-stats-webpack-plugin": "^2.0.1",
     "prop-types": "*",
     "react": "*",
-    "react-dom": "*"
+    "react-dom": "*",
+    "react-icons": "^3.9.0",
+    "react-router-dom": "^5.1.2"
   }
 }

@@ -1,9 +1,8 @@
 // == Import npm
 import React from 'react';
+import './app.scss';
 
 // == Import
-
-
 
 // == Composant
 const App = () => (
